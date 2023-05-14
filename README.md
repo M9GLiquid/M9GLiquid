@@ -4,12 +4,13 @@
 🌱 I’m currently learning advanced Java among other development language and I love to learn new stuff!  
 🛰️ A big computer geek and space nerd!  
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
-👨‍💻 Former developer/owner of the Conquest plugin for the KingConquest minecraft server.  
-👾 Currently working on a sokoban/2048 Framework for school using design patterns.  
+👨‍💻 Former developer of the Conquest plugin and owner of the KingConquest minecraft network.  
+👾 Currently working on a sokoban/2048 Framework for school utilizing design patterns.  
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
 **Language skills**  
  - Java  
  - PHP/Js/SQL  
+ - SQL
  - C/C#    
   
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
