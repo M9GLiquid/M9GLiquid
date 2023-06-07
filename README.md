@@ -5,13 +5,14 @@
 🛰️ A big computer geek and space nerd!  
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
 👨‍💻 Former developer of the Conquest plugin and owner of the KingConquest minecraft network.  
-👾 Currently working on a sokoban/2048 Framework for school utilizing design patterns.  
+👾 Currently working on learning python.  
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
 **Language skills**  
- - Java  
- - PHP/Js/SQL  
+ - Java 
+ - C/C# 
+ - Python      
  - SQL
- - C/C#    
+ - PHP/Js/SQL
   
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
 You  can  reach  me  on  [e-mail](mailto:email@thomas.lundqvist.1991@gmail.com) or  connect  with  me  on  [LinkedIn](https://www.linkedin.com/in/thomas-lundqvist/).  
