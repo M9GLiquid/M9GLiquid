@@ -8,7 +8,7 @@
 🤵 Married to the best woman in the world
 
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
-👨‍💻 Former developer of the Conquest plugin and owner of the KingConquest Minecraft network  
+👨‍💻 Former developer and owner of the Conquest plugin and the KingConquest Minecraft network  
 👾 Formerly worked as a software engineer for HMS Networks. Mostly C development  
 👾 Did my batchelor thesis at Axis Communications AB in Lund  
    - Noise Cancellation implementation in a mock Intercom system  
