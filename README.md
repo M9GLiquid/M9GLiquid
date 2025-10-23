@@ -26,12 +26,12 @@
    
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
 **Projects**
- - Conquest [repo](https://github.com/M9GLiquid/Conquest)
-     A Plugin for a homegrown Minecraft server (Spigot) 
+ - Conquest [repo](https://github.com/M9GLiquid/Conquest)  
+     A Plugin for a homegrown Minecraft server (Spigot)  
      where I learned Java and SQL for the first time.  
  - Disaster Simulation in CopepliaSim [repo](https://github.com/M9GLiquid/disaster-sim-coppeliasim)  
      A Disaster Area simulator to gather a dataset for ddrone.  
      School Project  
- - Untitled Unity Game
+ - Untitled Unity Game  
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
 You  can  reach  me  on  [thomas.lundqvist.1991@gmail.com](mailto:email@thomas.lundqvist.1991@gmail.com) or  connect  with  me  on  [LinkedIn](https://www.linkedin.com/in/thomas-lundqvist/).  
