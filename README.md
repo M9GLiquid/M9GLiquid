@@ -31,8 +31,6 @@
  - Disaster Simulation in CopepliaSim [repo](https://github.com/M9GLiquid/disaster-sim-coppeliasim)  
      A Disaster Area simulator to gather a dataset for ddrone.  
      School Project  
- - Explorers [Work in Progress]  
-     A large scale Settlers inspired game using Agentic Coding.  
    
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
 You  can  reach  me  on  [thomas.lundqvist.1991@gmail.com](mailto:email@thomas.lundqvist.1991@gmail.com) or  connect  with  me  on  [LinkedIn](https://www.linkedin.com/in/thomas-lundqvist/).  
