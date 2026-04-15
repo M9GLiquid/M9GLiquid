@@ -26,7 +26,7 @@
  - Collaboration  
    
 ~~------------------------------------------------------------------------------------------------------------------------------~~  
-## **Private Projects**
+## **My Projects**
 **[CCHAT](https://github.com/M9GLiquid/CCHAT)**    
   
 **Type:** Client-server systems project    
