@@ -10,7 +10,8 @@
 👾 Former developer and owner of the Conquest plugin and the KingConquest Minecraft network  
 👾 Formerly worked as a embedded software engineer for HMS Networks. \[C | Linux | Process monitor\]  
 👾 Did my batchelor thesis at Axis Communications AB in Lund.  
-   - Noise Cancellation implementation in a embedded Intercom system.  
+   - Noise Cancellation implementation in a embedded Intercom system.
+
 👾 Currently doing my Master Thesis at Ericsson AB in Lund.  
    - Developing an end-to-end AI pipeline in Unity and Python for virtual human interaction using language reasoning, 3D affordance grounding, and motion generation.   
 
